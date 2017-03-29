@@ -1,0 +1,38 @@
+body{
+background-color: #2E86AB;
+}
+.a1{
+  padding-right: 100px;
+  text-align: center;
+}
+#t1{
+  color: #AEECEF;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+padding-right: 400px;
+}
+#artwork{
+
+  font-family: 'Permanent Marker', cursive;
+  width: 300px;
+  height: 300px;
+}
+#a2{
+  width:30px;
+  height: 30px;
+}
+#t2{
+  font-family: 'Permanent Marker', cursive;
+  color: #AEECEF;
+  text-align: center;
+  align-content: center;
+}
+#t3{
+
+  font-family: 'Permanent Marker', cursive;
+  color: #AEECEF;
+  padding-left: 500px;
+}
+#d1{
+  width: 200px;
+}
